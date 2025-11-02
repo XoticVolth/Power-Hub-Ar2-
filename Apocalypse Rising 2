@@ -1,5 +1,5 @@
 local Scripts = {
-    [994732206] = "https://pastebin.com/raw/w0PRazVE"
+    [994732206] = "https://raw.githubusercontent.com/XoticVolth/Power-Hub-Ar2-/refs/heads/main/ApocalypseRising.lua"
 }
 
 local url = Scripts[game.GameId]
